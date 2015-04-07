@@ -817,22 +817,22 @@ design rules under a new name.</description>
 <element name="Q7" library="SparkFun-DiscreteSemi" package="SOT23" value="MPSA42" x="13.716" y="24.384" rot="MR90">
 <attribute name="PROD_ID" value="TRANS-09116" x="13.716" y="24.384" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="R1" library="SparkFun-Resistors" package="0805" value="10k" x="36.576" y="23.114" rot="MR180"/>
-<element name="R2" library="SparkFun-Resistors" package="0805" value="10k" x="23.876" y="16.256" rot="MR270"/>
-<element name="R3" library="SparkFun-Resistors" package="0805" value="10k" x="25.908" y="19.558" rot="MR90"/>
-<element name="R4" library="SparkFun-Resistors" package="0805" value="10k" x="10.16" y="23.368" rot="MR180"/>
-<element name="R5" library="SparkFun-Resistors" package="0805" value="470k" x="44.45" y="14.224" rot="MR180"/>
-<element name="R6" library="SparkFun-Resistors" package="0805" value="470k" x="31.75" y="14.224" rot="MR180"/>
-<element name="R7" library="SparkFun-Resistors" package="0805" value="470k" x="18.288" y="14.224" rot="MR180"/>
-<element name="R8" library="SparkFun-Resistors" package="0805" value="470k" x="5.08" y="13.97" rot="MR180"/>
-<element name="R9" library="SparkFun-Resistors" package="0805" value="33k" x="44.45" y="21.59" rot="MR0"/>
-<element name="R10" library="SparkFun-Resistors" package="0805" value="33k" x="31.496" y="21.59" rot="MR0"/>
-<element name="R11" library="SparkFun-Resistors" package="0805" value="33k" x="18.288" y="21.336" rot="MR0"/>
-<element name="R12" library="SparkFun-Resistors" package="0805" value="33k" x="5.08" y="21.336" rot="MR0"/>
-<element name="R13" library="SparkFun-Resistors" package="0805" value="1M" x="44.45" y="15.748" rot="MR0"/>
-<element name="R14" library="SparkFun-Resistors" package="0805" value="1M" x="31.75" y="15.748" rot="MR0"/>
-<element name="R15" library="SparkFun-Resistors" package="0805" value="1M" x="18.288" y="15.748" rot="MR0"/>
-<element name="R16" library="SparkFun-Resistors" package="0805" value="1M" x="5.08" y="15.494" rot="MR0"/>
+<element name="R1" library="SparkFun-Resistors" package="0805" value="" x="36.576" y="23.114" rot="MR180"/>
+<element name="R2" library="SparkFun-Resistors" package="0805" value="" x="23.876" y="16.256" rot="MR270"/>
+<element name="R3" library="SparkFun-Resistors" package="0805" value="" x="25.908" y="19.558" rot="MR90"/>
+<element name="R4" library="SparkFun-Resistors" package="0805" value="" x="10.16" y="23.368" rot="MR180"/>
+<element name="R5" library="SparkFun-Resistors" package="0805" value="" x="44.45" y="14.224" rot="MR180"/>
+<element name="R6" library="SparkFun-Resistors" package="0805" value="" x="31.75" y="14.224" rot="MR180"/>
+<element name="R7" library="SparkFun-Resistors" package="0805" value="" x="18.288" y="14.224" rot="MR180"/>
+<element name="R8" library="SparkFun-Resistors" package="0805" value="" x="5.08" y="13.97" rot="MR180"/>
+<element name="R9" library="SparkFun-Resistors" package="0805" value="" x="44.45" y="21.59" rot="MR0"/>
+<element name="R10" library="SparkFun-Resistors" package="0805" value="" x="31.496" y="21.59" rot="MR0"/>
+<element name="R11" library="SparkFun-Resistors" package="0805" value="" x="18.288" y="21.336" rot="MR0"/>
+<element name="R12" library="SparkFun-Resistors" package="0805" value="" x="5.08" y="21.336" rot="MR0"/>
+<element name="R13" library="SparkFun-Resistors" package="0805" value="" x="44.45" y="15.748" rot="MR0"/>
+<element name="R14" library="SparkFun-Resistors" package="0805" value="" x="31.75" y="15.748" rot="MR0"/>
+<element name="R15" library="SparkFun-Resistors" package="0805" value="" x="18.288" y="15.748" rot="MR0"/>
+<element name="R16" library="SparkFun-Resistors" package="0805" value="" x="5.08" y="15.494" rot="MR0"/>
 <element name="S1" library="SparkFun-Electromechanical" package="TACTILE-PTH" value="" x="38.354" y="6.858" smashed="yes" rot="R90">
 <attribute name="NAME" x="43.688" y="9.144" size="1.27" layer="25" ratio="10" rot="R180"/>
 </element>
@@ -865,22 +865,22 @@ design rules under a new name.</description>
 <element name="R20" library="SparkFun-Resistors" package="0603-RES" value="" x="38.1" y="12.192" rot="R270"/>
 <element name="JP1" library="SparkFun-Connectors" package="1X09" value="M09" x="14.732" y="1.27" smashed="yes"/>
 <element name="H4" library="holes" package="3,0" value="MOUNT-HOLE3.0" x="45.974" y="33.528"/>
-<element name="Q2" library="SparkFun-DiscreteSemi" package="SOT23" value="MPSA92" x="44.45" y="18.542" rot="MR0">
+<element name="Q2" library="SparkFun-DiscreteSemi" package="SOT23" value="MMBT3906" x="44.45" y="18.542" rot="MR0">
 <attribute name="PROD_ID" value="TRANS-08052" x="44.45" y="18.542" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="Q4" library="SparkFun-DiscreteSemi" package="SOT23" value="MPSA92" x="31.75" y="18.542" rot="MR0">
+<element name="Q4" library="SparkFun-DiscreteSemi" package="SOT23" value="MMBT3906" x="31.75" y="18.542" rot="MR0">
 <attribute name="PROD_ID" value="TRANS-08052" x="31.75" y="18.542" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="Q6" library="SparkFun-DiscreteSemi" package="SOT23" value="MPSA92" x="18.288" y="18.542" rot="MR0">
+<element name="Q6" library="SparkFun-DiscreteSemi" package="SOT23" value="MMBT3906" x="18.288" y="18.542" rot="MR0">
 <attribute name="PROD_ID" value="TRANS-08052" x="18.288" y="18.542" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="Q8" library="SparkFun-DiscreteSemi" package="SOT23" value="MPSA92" x="5.08" y="18.542" rot="MR0">
+<element name="Q8" library="SparkFun-DiscreteSemi" package="SOT23" value="MMBT3906" x="5.08" y="18.542" rot="MR0">
 <attribute name="PROD_ID" value="TRANS-08052" x="5.08" y="18.542" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="R21" library="SparkFun-Resistors" package="0805" value="DNP" x="10.16" y="25.4" rot="MR0"/>
-<element name="R22" library="SparkFun-Resistors" package="0805" value="DNP" x="23.876" y="19.558" rot="MR270"/>
-<element name="R23" library="SparkFun-Resistors" package="0805" value="DNP" x="25.908" y="16.256" rot="MR90"/>
-<element name="R24" library="SparkFun-Resistors" package="0805" value="DNP" x="36.576" y="25.146" rot="MR0"/>
+<element name="R21" library="SparkFun-Resistors" package="0805" value="" x="10.16" y="25.4" rot="MR0"/>
+<element name="R22" library="SparkFun-Resistors" package="0805" value="" x="23.876" y="19.558" rot="MR270"/>
+<element name="R23" library="SparkFun-Resistors" package="0805" value="" x="25.908" y="16.256" rot="MR90"/>
+<element name="R24" library="SparkFun-Resistors" package="0805" value="" x="36.576" y="25.146" rot="MR0"/>
 <element name="J1" library="SparkFun-Connectors" package="2X3_LOCK" value="AVR_SPI_PRG_62X3_LOCK" x="38.1" y="34.544" smashed="yes" rot="R270">
 <attribute name="NAME" x="37.084" y="36.195" size="1.27" layer="25" ratio="10"/>
 </element>
