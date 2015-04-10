@@ -4480,7 +4480,7 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="S3" library="SparkFun-Electromechanical" deviceset="TAC_SWITCH" device="PTH"/>
 <part name="H1" library="holes" deviceset="MOUNT-HOLE" device="3.0"/>
 <part name="H2" library="holes" deviceset="MOUNT-HOLE" device="3.0"/>
-<part name="C5" library="SparkFun-Capacitors" deviceset="CAP" device="0805"/>
+<part name="C5" library="SparkFun-Capacitors" deviceset="CAP" device="0805" value="0.1uf"/>
 <part name="SUPPLY2" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="GND5" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="S4" library="SparkFun-Electromechanical" deviceset="TAC_SWITCH" device="PTH"/>
@@ -4493,10 +4493,10 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="LED2" library="SparkFun-LED" deviceset="LED" device="0603"/>
 <part name="LED3" library="SparkFun-LED" deviceset="LED" device="0603"/>
 <part name="LED4" library="SparkFun-LED" deviceset="LED" device="0603"/>
-<part name="R17" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES"/>
-<part name="R18" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES"/>
-<part name="R19" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES"/>
-<part name="R20" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES"/>
+<part name="R17" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="220"/>
+<part name="R18" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="220"/>
+<part name="R19" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="220"/>
+<part name="R20" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="220"/>
 <part name="JP1" library="SparkFun-Connectors" deviceset="M09" device=""/>
 <part name="Q2" library="SparkFun-DiscreteSemi" deviceset="TRANSISTOR_PNP" device="MMBT3906" value="MPSA92"/>
 <part name="Q4" library="SparkFun-DiscreteSemi" deviceset="TRANSISTOR_PNP" device="MMBT3906" value="MPSA92"/>
